@@ -17,5 +17,4 @@ Open to backend and technical leadership roles across Europe, MENA, and EMEA. Le
 - ⚙️ Daily stack: `Java 17/21`, `Spring Boot`, `Python`, `PostgreSQL`, `Redis`, `Apache Kafka`
 - 🚀 Build & operate: event-driven platforms, GraphQL/gRPC & REST APIs, microservices tuned for millions of events/sec
 - ☁️ Shipping with: Docker, Kubernetes, CI/CD, and cloud-native practices
-- 🧭 Values: scalable architecture, performance, clarity in system design, inclusive collaboration
-
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/emre-kagan-akkaya/) or [email](mailto:emrekaganakkaya@gmail.com)  
