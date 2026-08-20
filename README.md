@@ -17,4 +17,4 @@ Open to remote backend and technical roles across Europe, MENA, and EMEA regions
 - ⚙️ Daily stack: `Java 17/21`, `Spring Boot`, `Python`, `PostgreSQL`, `Redis`, `Apache Kafka`, `Bash`, `Rust`
 - 🚀 Build & operate: event-driven platforms, GraphQL/gRPC & REST APIs, microservices tuned for millions of events/sec
 - ☁️ Shipping with: Docker, Kubernetes, Terraform, CI/CD, and cloud-native practices
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/emre-kagan-akkaya/) or [email](mailto:emrekaganakkaya@gmail.com)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/emre-kagan/) 
